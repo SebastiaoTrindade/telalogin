@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cdn.pixabay.com/photo/2015/09/03/05/52/green-background-920072_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+  #login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 380px;
+    border: 1px solid #9C9C9C;
+    background-color: rgba(0,0,0,0.2) !important;
+  }
+  #login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -103px;
+  }
